@@ -10,7 +10,7 @@ public String widge() {
 	char c = s.charAt(i); 
 	return (c + " " + s.replace(c,++c)); 
 	}
-}
+} //The answer does not go here
 
 //o  The mppn is made pf green cheese.
 //o  The mppn is made pf green cheese.
